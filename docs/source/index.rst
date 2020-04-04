@@ -30,6 +30,7 @@ For teachers
 ------------
 
 If you are a :doc:`teacher <teacher/teacher>` then you can
+
     * :doc:`setup your environment <setup_environment>`
     * :doc:`share your devices <teacher/share_device>`
     * :doc:`create your own challenges <teacher/create_challenge>`
@@ -49,6 +50,7 @@ For students
 ------------
 
 If you are a student then you can
+
     * :doc:`setup your environment <setup_environment>`
     * :doc:`get access to shared devices <student/get_access>`
     * :doc:`see how to solve challenges <student/solve_challenges>`
@@ -68,28 +70,37 @@ If you are a student then you can
 Available challenges
 --------------------
 
-You can browse here the available challenges
+You can browse here the available challenges:
+
+   * :doc:`challenges <challenges/challenges>`
 
 .. toctree::
    :maxdepth: 2
    :caption: Available challenges
+   :hidden:
    
    challenges/challenges
 
 Available devices
 --------------------
 
-You can browse here the available tested devices
+You can browse here the available tested devices:
+
+   * :doc:`devices <devices/devices>`
 
 .. toctree::
    :maxdepth: 2
    :caption: Available devices
+   :hidden:
    
    devices/devices
 
-Indices and tables
-==================
+..
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Indices and tables
+   ==================
+
+..
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
