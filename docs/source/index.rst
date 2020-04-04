@@ -6,7 +6,7 @@
 Welcome to eLearninga's documentation!
 ======================================
 
-`eLearninga`_ enables you to learn and teach on embedded systems wihtout owning them.
+`eLearninga`_ enables you to learn and teach on embedded systems without owning them.
 
 Introduction
 ------------
