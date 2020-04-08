@@ -5,8 +5,9 @@ How to use your own board for testing?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     #. Look up your board, platform, framework info here: https://platformio.org/boards
-    #. Check on which port it connects to your PC (COM*, or provided here: https://docs.platformio.org/en/latest/projectconf/section_env_upload.html)
     #. Set the env, platform, board and framework of your device in your platformio.ini
+
+        Example:
 
         .. code-block:: text
         
