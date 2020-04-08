@@ -11,7 +11,7 @@ Create new challenge
         #. Check on which port it connects to your PC (COM*, or provided here: https://docs.platformio.org/en/latest/projectconf/section_env_upload.html)
         #. And you can share it with other pio users as explained here: https://docs.platformio.org/en/latest/core/userguide/remote/cmd_agent.html 
         #. If you want to share it via the  ECP Community, just send an email with your own  platformio.ini file to ingaelearn@gmail.com
-    #. Use a board from the community (:doc:`Link <../student/get_access>`)
+    #. Use a board from the community (:doc:`Link <../learn/get_access>`)
 
 #. The challenge/challenge.h file contains the challenge description, and a function, that the student should fill with the solution. (There can be more functions, and more challenge files btw, but the rest of the code should be adapted).
     

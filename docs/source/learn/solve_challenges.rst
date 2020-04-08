@@ -35,8 +35,9 @@ Solve challenges
 
 #. Run the sample tests:
     
-    a. Remote upload
-    b. Remote Test
+    a. Remote Test
+    
+    .. image:: ../_static/img/remote_test.png
 
 #. Solve the challenge
 
