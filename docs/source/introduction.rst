@@ -38,16 +38,12 @@ If you are a contributer then you can
     * :doc:`create your own challenges <contribute/create_challenge>`
     * and engage other people to use the plarform.
 
-Available challenges
-^^^^^^^^^^^^^^^^^^^^
+Challenges
+^^^^^^^^^^
 
-You can browse here the available challenges:
+You can browse here the available :doc:`challenges <challenges/challenges>`.
 
-   * :doc:`challenges <challenges/challenges>`
+Devices
+^^^^^^^
 
-Available devices
-^^^^^^^^^^^^^^^^^
-
-You can browse here the available tested devices:
-
-   * :doc:`devices <devices/devices>`
+You can browse here the currently available :doc:`devices <devices/devices>`.
