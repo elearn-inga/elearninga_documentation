@@ -25,7 +25,7 @@ Learn
 If you want to learn then you can
 
     * :doc:`see how to solve challenges <learn/solve_challenges>`
-    * :doc:`get access to shared devices <learn/local_device>`
+    * :doc:`use your local device <learn/local_device>`
     * :doc:`get access to shared devices <learn/community_device>`
     * :doc:`browse interesting new challenges <challenges/challenges>`
 
