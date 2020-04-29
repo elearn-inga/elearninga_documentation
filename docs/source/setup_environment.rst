@@ -6,7 +6,10 @@ Please follow the instructions step-by-step:
 
     #. Open VSCode
 
+    #. Install a recent Python 3 version which you can select during the PlatformIO installation.
+
     #. Install `PlatformIO (pio) <https://platformio.org/install/ide?install=vscode>`_
+        Make sure that you select the Python 3 version durint installation.
             
     #. Create an account for Platformio
         
